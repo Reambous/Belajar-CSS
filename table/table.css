@@ -1,0 +1,56 @@
+*{
+    font-family: tahoma;
+}
+
+.judul{
+    background-color: burlywood;
+
+
+}
+
+h1{
+    justify-content: center;
+    font-size: 45px;
+    display: flex;
+    color: chocolate;
+}
+
+body{
+    font-size: 18px;
+    color: brown;
+}
+
+table{
+    width: 600px;
+    border-collapse: collapse;
+}
+
+th{
+    padding: 10px;
+    text-align: left;
+}
+
+td{
+    padding: 10px;
+}
+
+.no{
+    border-right: 2px solid blue;
+}
+
+.atas{
+    padding-top: 15px;
+}
+
+th{
+    border-top: 2px solid blue;
+    border-bottom: 2px solid blue; 
+}
+
+.ganjil{
+    background-color: #efefef;
+}
+
+tr:hover{
+    background-color: blanchedalmond;
+}

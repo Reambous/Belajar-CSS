@@ -1,0 +1,41 @@
+/* color */
+
+h1{
+    color: aqua;
+}
+
+h2{
+    color: #cf6117;
+}
+
+p{
+    color: rgb(71, 19, 175);
+}
+
+body{
+    background-color: #efefee;
+}
+
+h1{
+    background-color: red;
+}
+
+h2{
+    background-color: #efefef;
+}
+
+p{
+    background-color: rgb(120, 120, 60);
+}
+
+#satu p{
+    background-color: hsl(150, 100%, 50%);
+}
+
+.two{
+    background-color: hsla(150, 100%, 25%, 0.5);
+}
+
+.one{
+    background-color: rgba(120, 120, 60, 0.6);
+}

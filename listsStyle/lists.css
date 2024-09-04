@@ -1,0 +1,27 @@
+*{
+    font-family: tahoma;
+}
+
+ol{
+    list-style-type: upper-roman;
+    list-style-type: lower-latin;
+    list-style-type: decimal;
+}
+
+ul{
+    list-style-type: circle;
+    list-style-type: square;
+}
+
+ul.satu{
+    list-style-position: inside;
+    list-style-position: outside;
+}
+
+ul.dua{
+    list-style: upper-latin inside;
+}
+
+ul.tiga{
+    list-style: lower-greek inside;
+}

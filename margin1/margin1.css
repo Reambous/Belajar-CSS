@@ -1,0 +1,33 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.dekor1{
+    border: 5px solid;
+    padding: 20px;
+    width: fit-content;
+    height: fit-content;
+}
+
+.mar1{
+    margin: 50px;
+}
+
+.mar2{
+    margin-top: 10px ;
+    margin-bottom: 30px;
+    margin-right: 60px;
+    margin-left: auto;
+}
+
+.mar3{
+    margin: 20px 40px ;
+}
+
+.mar4{
+    margin: 10px auto 60px;
+}
+
+.mar5{
+    margin: 10px 30px 60px 70px;
+}

@@ -1,0 +1,51 @@
+*{
+    font-family: Arial;
+}
+
+h1{
+    font-family: 'Times New Roman';
+}
+
+span{
+    color: blue;
+}
+
+h3 span{
+    font-family: Georgia;
+    color: crimson;
+}
+
+h3{
+    font-size: 16px;
+    padding: 15px;
+}
+
+h3 span{
+    padding: inherit;
+}
+
+body{
+    background-color: #efefef;
+    text-align: justify;
+}
+
+h1{
+    background-color: black;
+    color: beige;
+    padding: 10px;
+    text-align: center;
+}
+
+h2{
+    background-color: pink;
+    padding: 10px;
+}
+
+.dis1{
+    background-color: aqua;
+    padding: 1px;
+}
+
+
+
+

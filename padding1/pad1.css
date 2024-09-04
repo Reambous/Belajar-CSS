@@ -1,0 +1,46 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    width: 120px;
+    height: 30px;
+    text-align: center;
+    
+}
+
+.border1{
+    border: 3px solid;
+}
+
+.padding1{
+    background-color: aqua;
+    padding: 50px;
+}
+
+.padding2{
+    background-color: red;
+    padding: 50px 10px;
+}
+
+.padding3{
+    background-color: yellow;
+    padding: 10px 40px 70px ;
+}
+
+.padding4{
+    background-color: greenyellow;
+    padding: 50px 10px 100px 30px;
+}
+
+.padding5{
+    background-color: black;
+    padding: 1px 1px 20px 50px;
+}
+
+.padding5{
+    color: aqua;
+    border-color: black;
+}
+
+

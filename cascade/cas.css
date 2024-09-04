@@ -1,0 +1,40 @@
+*{
+    font-family: Arial;
+}
+
+/* yang dipilih yang paling akhir dan lebih spesifik */
+
+b{
+    color: aqua;
+}
+
+b{
+    color: brown;
+}
+
+i{
+    color: greenyellow; /*Penting 3*/
+}
+
+p i{
+    color: violet !important; /*Penting 1*/
+}
+
+p i{
+    color: blue; /*Penting 2*/
+    font-size: 180%;
+
+}
+
+
+
+p{
+    font-size: 150%;
+}
+
+p#pendahuluan{
+    font-size: 80%;
+}
+
+
+

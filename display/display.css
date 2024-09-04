@@ -1,0 +1,44 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    display: inline;
+}
+
+span{
+    background-color: bisque;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    padding: 8px;
+}
+
+span.inline{
+    display: inline;;
+}
+
+span.block{
+    display: block;
+}
+
+span.inbox{
+    display: inline-block;
+}
+
+.head{
+    display: flex;
+    background-color: aqua;
+    height: 500px;
+    padding: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.head1{
+    background-color: chartreuse;
+    width: 100px;
+    height: 90px;
+    margin: 20px;
+    display: flex;
+}

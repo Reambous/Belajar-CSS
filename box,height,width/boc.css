@@ -1,0 +1,59 @@
+.satu{
+    height: 200px;
+    width: 300px;
+    background-color: aqua;
+}
+
+.dua{
+    height: 200px;
+    width: 350px;
+    background-color: chartreuse;
+}
+
+.dua h2{
+    height: 16%;
+    width: 21%;
+    background-color: chocolate;
+}
+
+.dua p{
+    color: crimson;
+}
+
+
+
+td{
+    background-color: darkgrey;
+}
+
+td.tabel1{
+    max-width: 500px;
+    min-width: 450px;
+    background-color: chocolate;
+    padding: 10px;
+}
+
+h1,h2{
+    font-family: Verdana;
+    color: blueviolet;
+}
+
+.one{
+    height: 100px;
+    width: 200px;
+    overflow: hidden;
+}
+
+.two{
+    height: 100px;
+    width: 200px;
+    overflow: scroll;
+}
+
+
+
+
+
+
+
+

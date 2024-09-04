@@ -1,0 +1,43 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    font-size: 40px;
+}
+
+h2{
+    font-size: 26px;
+}
+
+.artikel{
+    color: red;
+}
+
+#artikel1{
+    font-style: italic;
+}
+
+.kredit{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.penulis{
+    color: brown;
+}
+
+.tanggal{
+    color: green;
+}
+
+p>span{
+    color: cornflowerblue;
+}
+
+h3+p{
+    font-size: 20px;
+}
+
+h1~p{
+    text-align: justify;
+}

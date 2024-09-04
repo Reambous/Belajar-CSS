@@ -1,0 +1,58 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.borderstyle{
+    border: 5px solid;
+    border-bottom-width: 8px;
+    border-left-style: dotted;
+}
+
+#borderkiri{
+    border-left-style: solid;
+    border-left-width: 10px;
+    border-color: aqua;
+}
+
+#borderkanan{
+    border-right-style: double;
+    border-right-width: 10px;
+}
+
+#borderbawah{
+    border-bottom-style: dashed;
+    border-bottom-width: 10px;
+    border-color: blue;
+}
+
+#borderatas{
+    border-top-style: solid;
+    border-top-width: 10px;
+    border-color: crimson;
+}
+
+.bosis1{
+    border-style: solid;
+    border-color: greenyellow;
+    border-width: 7px;
+}
+
+.bosis2{
+    border-style: solid;
+    border-color: red;
+    border-width: 7px 18px;
+}
+
+.bosis3{
+    border-style: solid;
+    border-color: red;
+    border-width: 5px 10px 15px 20px;
+}
+
+.bosis4{
+    border-style: solid;
+    border-color: red;
+    border-width: 4px 10px 10px 4px;
+}
+
+

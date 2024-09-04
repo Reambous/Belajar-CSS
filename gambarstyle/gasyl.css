@@ -1,0 +1,42 @@
+h1{
+    font-size: 40px;
+    font-family: tahoma;
+}
+
+div{
+    border: 2px solid;
+    width: 600px;
+    height: 450px;
+}
+
+.imglarge{
+    height: 200px;
+    width: 300px;
+    margin-bottom: 10px;
+}
+
+.imgmedium{
+    height: 100px;
+    width: 150px;
+}
+
+.imgsmall{
+    height: 50px;
+    width: 75px;
+}
+
+.alignright{
+    float: right;
+    margin-left: 20px;
+}
+
+.alignleft{
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 50px;
+}
+
+.aligncenter{
+    display: block;
+    margin: auto;
+}

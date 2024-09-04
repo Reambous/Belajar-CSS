@@ -1,0 +1,41 @@
+/* cara gini ctrl + / */
+
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: aqua;
+}
+
+h2{
+    color: blue;
+}
+
+li.Sehat{
+    color: greenyellow;
+}
+
+#Sehat2{
+    color: brown;
+}
+
+p>b{
+    color: yellowgreen;
+}
+
+li>b{
+    color: blueviolet;
+}
+
+p b{
+    color: cornflowerblue;
+}
+
+p+h2{
+    color: pink;
+}
+
+h2~p{
+    color: darkorange;
+}

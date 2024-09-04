@@ -1,0 +1,51 @@
+input{
+    display: block;
+    font-size: 150%;
+    margin-bottom: 12px;
+    background-color: aliceblue;
+    color: black;
+    padding: 5px;
+    border-radius: 9px;
+    border: 1px solid darkgrey;
+
+    background-repeat: no-repeat;
+    background-size: 20px;
+    padding-left: 30px;
+    background-position: center left;
+}
+
+input:focus{
+    background-color: white;
+}
+
+input#email{
+    background-image: url(../image/Screenshot\ 2024-08-02\ 094320.png);
+}
+
+input#instagram{
+    background-image: url(../image/Screenshot\ 2024-08-02\ 094938.png);
+}
+
+input#web{
+    background-image: url(../image/Screenshot\ 2024-08-06\ 132900.png);
+}
+
+input#submit{
+    padding: 2px 9px;
+    text-shadow: 1px 3px 3px blueviolet;
+    color: blue;
+    background-color: coral;
+    cursor: pointer;
+}
+
+input#submit:hover{
+    background-color: red;
+    color: blueviolet;
+    text-shadow: blue;
+}
+
+input#submit:active{
+    background-color: bisque;
+    color: brown;
+    text-shadow: 1px 3px 3px black;
+}

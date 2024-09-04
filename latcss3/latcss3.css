@@ -1,0 +1,89 @@
+.box1{
+    width: 350px;
+    height: 180px;
+    background-color: gray;
+}
+
+.box1 p{
+    width: 80%;
+    height: 85%;
+    background-color: crimson;
+}
+
+.box2{
+    width: 330px;
+    height: 200px;
+    background-color: aqua;
+}
+
+.box2 h2{
+    height: 15%;
+    width: 65px;
+    background-color: bisque;
+}
+
+.box2 p{
+    width: 75%;
+    height: 68%;
+    background-color: blueviolet;
+}
+
+td{
+    background-color: burlywood;
+ color: blue;
+}
+
+td.des1{
+    background-color: black;
+    color: bisque;
+    max-width: 600px;
+    min-width: 400px;
+}
+
+h2,h3{
+    color: cadetblue;
+}
+
+.satu{
+    height: 150px;
+    width: 100px;
+    overflow: hidden;
+}
+
+.dua{
+    height: 190px;
+    width: 150px;
+    overflow: scroll;
+}
+
+.box4{
+    width: fit-content;
+    height: fit-content;
+    background-color: gray;
+    margin: 100px 200px;
+    border: 5px solid crimson;
+    font-size: 30px;
+
+
+    padding: 20px;
+}
+
+.sa b{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-color: blue;
+    color: greenyellow;
+    border: 3px solid crimson;
+}
+
+.sa{
+    border: 5px solid crimson;
+    width: fit-content;
+    height: fit-content;
+    background-color: aqua;    
+    padding: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+
